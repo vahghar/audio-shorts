@@ -1,0 +1,92 @@
+[
+  {
+    "speaker": "joe_rogan",
+    "speaker_name": "Joe Rogan",
+    "voice_file": "rogan.wav",
+    "text": "Nikhil, man, the G.O.A.T. debate is a beast. When you strip away the hype, who actually had the superior physical engine? Get into it.",
+    "interrupt": false,
+    "speed": 1.03,
+    "pause_after_ms": 300
+  },
+  {
+    "speaker": "nikhil_kamath",
+    "speaker_name": "Nikhil Kamath",
+    "voice_file": "kamath.wav",
+    "text": "Bro honestly, you are thinking about this like a fantasy sports league. I look at the numbers, Messi had a higher assist to goal ratio over a longer compounding period of premium years. Ronaldo had raw power, but Messi\u2019s capital allocation of talent was just more efficient, man.",
+    "interrupt": false,
+    "speed": 1.02,
+    "pause_after_ms": 350
+  },
+  {
+    "speaker": "joe_rogan",
+    "speaker_name": "Joe Rogan",
+    "voice_file": "rogan.wav",
+    "text": "Compounding period, bro? That is wild. You are treating a soccer player like a S P A C. I am looking at the raw biomechanics, the center of gravity, the pure biological freaky nature of it. That is what makes it real, not the spreadsheet.",
+    "interrupt": true,
+    "speed": 1.05,
+    "pause_after_ms": 150
+  },
+  {
+    "speaker": "nikhil_kamath",
+    "speaker_name": "Nikhil Kamath",
+    "voice_file": "kamath.wav",
+    "text": "Joe, maybe I am wrong, but if you look at the numbers, Messi retained his winning streak for decades while Ronaldo\u2019s engine depreciated. That is just better risk management, bro. The spreadsheet does not lie about consistency, even if it feels cold to you.",
+    "interrupt": false,
+    "speed": 1.02,
+    "pause_after_ms": 350
+  },
+  {
+    "speaker": "joe_rogan",
+    "speaker_name": "Joe Rogan",
+    "voice_file": "rogan.wav",
+    "text": "Bro, you are turning biology into a balance sheet. Look at the center of gravity on that kid, it is like he is made of a different chemical element. That low, liquid movement is a biological anomaly, not a risk management strategy.",
+    "interrupt": true,
+    "speed": 1.05,
+    "pause_after_ms": 150
+  },
+  {
+    "speaker": "nikhil_kamath",
+    "speaker_name": "Nikhil Kamath",
+    "voice_file": "kamath.wav",
+    "text": "Bro, honestly, the true anomaly is that we pay billions for a man who cannot even break even on his shoe contract. Maybe I am wrong, but I bet my Zerodha portfolio against Messi's Instagram followers any day, man.",
+    "interrupt": false,
+    "speed": 1.02,
+    "pause_after_ms": 320
+  },
+  {
+    "speaker": "joe_rogan",
+    "speaker_name": "Joe Rogan",
+    "voice_file": "rogan.wav",
+    "text": "Bro, you are turning this into a stock trade. Look at the raw output, that man is basically a biological anomaly. It is like comparing a cheetah to a wolf, you cannot put a spreadsheet on pure predatory instinct.",
+    "interrupt": true,
+    "speed": 1.05,
+    "pause_after_ms": 150
+  },
+  {
+    "speaker": "nikhil_kamath",
+    "speaker_name": "Nikhil Kamath",
+    "voice_file": "kamath.wav",
+    "text": "Joe, you cannot put a spreadsheet on a cheetah, but you can put a P to E ratio on its market value. The numbers say Messi wins the long game, and in investing, winners are all that matter in the end.",
+    "interrupt": false,
+    "speed": 1.03,
+    "pause_after_ms": 320
+  },
+  {
+    "speaker": "joe_rogan",
+    "speaker_name": "Joe Rogan",
+    "voice_file": "rogan.wav",
+    "text": "Bro, you are turning a predator into a portfolio. Look at the raw biology, the way he bends the ball is actually physically terrifying. You are betting on the chart, I am betting on the meat and bone. Jamie, pull up that last World Cup final.",
+    "interrupt": true,
+    "speed": 1.04,
+    "pause_after_ms": 150
+  },
+  {
+    "speaker": "nikhil_kamath",
+    "speaker_name": "Nikhil Kamath",
+    "voice_file": "kamath.wav",
+    "text": "Bro, the meat and bone depreciates, but the legacy compounds. Messi is the index fund, Ronaldo is the levered meme coin. You can watch the highlight reel, but I am long on the balance sheet.",
+    "interrupt": false,
+    "speed": 1.02,
+    "pause_after_ms": 350
+  }
+]
